@@ -1,0 +1,408 @@
+everi, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+solut, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+forum, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+heart, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+win, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 18.1818181818, 1
+
+site, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+show, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+think, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 11.2666666667, 1
+
+first, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 1
+
+featur, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 1
+
+clear, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 1
+
+help, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+help, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+set, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+avail, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+news, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+mani, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+user, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+know, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+column, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+version, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+select, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+instal, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 15.2105263158, 0
+
+option, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+player, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+link, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+cell, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+problem, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+problem, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+everi, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+solut, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+forum, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+heart, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+win, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 18.1818181818, 1
+
+site, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+show, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+think, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 11.2666666667, 1
+
+first, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 1
+
+featur, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 1
+
+clear, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 1
+
+help, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+help, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+set, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+avail, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+news, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+mani, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+user, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+know, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+column, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+version, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+select, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+instal, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 15.2105263158, 0
+
+option, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+player, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+link, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+cell, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+problem, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+problem, pickup_from_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+everi, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+solut, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+forum, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+heart, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+win, put_in_freecell, card hearts, freecell 
+-4.32192809489, 18.1818181818, 1
+
+site, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+show, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+think, put_in_freecell, card hearts, freecell 
+-4.32192809489, 11.2666666667, 1
+
+first, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 1
+
+featur, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 1
+
+clear, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 1
+
+help, put_in_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+help, put_in_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+set, put_in_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+avail, put_in_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+news, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+mani, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+user, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+know, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+column, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+version, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+select, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+instal, put_in_freecell, card hearts, freecell 
+-4.32192809489, 15.2105263158, 0
+
+option, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+player, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+link, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+cell, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+problem, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+problem, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+everi, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+solut, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+forum, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+heart, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+win, put_in_freecell, card hearts, freecell 
+-4.32192809489, 18.1818181818, 1
+
+site, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+show, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 1
+
+think, put_in_freecell, card hearts, freecell 
+-4.32192809489, 11.2666666667, 1
+
+first, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 1
+
+featur, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 1
+
+clear, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 1
+
+help, put_in_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+help, put_in_freecell, card hearts, freecell 
+-4.32192809489, 20.1666666667, 0
+
+set, put_in_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+avail, put_in_freecell, card hearts, freecell 
+-4.32192809489, 10.2857142857, 0
+
+news, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+mani, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+rule, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+user, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+know, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+column, put_in_freecell, card hearts, freecell 
+-4.32192809489, 8.33333333333, 0
+
+version, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+select, put_in_freecell, card hearts, freecell 
+-4.32192809489, 12.25, 0
+
+instal, put_in_freecell, card hearts, freecell 
+-4.32192809489, 15.2105263158, 0
+
+option, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+option, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+player, put_in_freecell, card hearts, freecell 
+-4.32192809489, 13.2352941176, 0
+
+link, put_in_freecell, card hearts, freecell 
+-4.32192809489, 9.30769230769, 0
+
+cell, put_in_freecell, card hearts, freecell 
+-4.32192809489, 16.2, 0
+
+problem, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+
+problem, put_in_freecell, card hearts, freecell 
+-4.32192809489, 7.36363636364, 0
+

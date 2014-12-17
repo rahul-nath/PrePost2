@@ -1,0 +1,34 @@
+USE PICKLE TO STORE DOCS AS CLEAN, STUPID SHIT FREE LISTS
+THEN, IN DISTANCE BASED STUFF, ALL YOU HAVE TO DO IS READ IT IN
+AND THE INDICES WILL REFER TO THE WORD NUMBER
+
+and need to store shit as .p files
+
+
+problems:
+- check for existence of file only once and pass a boolean after
+- internalization bottle neck
+- don't know what text file belongs to what action/objects; need to label
+- need to get rid of all the existing docs; they are effectively useless.
+
+- save the action name, objects, and link to the top of each file
+- when you read them in, save the first two lines (the link, and then the action/objects respectively)
+- add the link to the link_list (don't keep the saved links; just add them as you go)
+- save the action to the current action and objects to objects pages
+- before you start making new queries, check if there exists a doc 0; if there does, then
+  read in all the docs until there does not exist a doc with the next number; then, set
+  the next number as the value of total docs (including 0th doc)
+- only do 5 querys at a time; once you read in all the existing docs and store them internally,
+  start the depth at total docs and increment by 5
+- abstract out the process of storing internally
+
+My purposes:
+
+Non-volatile memory or secondary storage or ROM/Hard-drive/disk memory is
+what I have been calling "storing externally" or "storing as text files"
+
+Volatile memory or primary storage or RAM memory is what I have been calling
+"storing internally" or "storing as docs"
+
+
+- remove mathematica -> takes up half my damn boot disk

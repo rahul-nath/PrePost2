@@ -1,0 +1,17 @@
+1) feature vectors
+2) Weka needs data in ARFF (Attribute Relation File Format)
+   (attribute-value pair is a feature; "height : 5'6'' ")
+   final attribute is the thing you're trying to predict;
+   the default class you're trying to predict (it will be nominal)
+   in curly brackets put what every possible class (two: either precond
+   ition or not)
+
+   DATA needs the values of the feature (each line is a feature
+   vector with a line)
+
+3) In the paper, include a description of successes and failures;
+   what are the fundamental results. Don't try to sell her on what's
+   good. Need to be critical of you've done; an honest view of what
+   the next steps would be. 
+
+Meeting at 2pm on Monday, Wednesday; 1pm on Thursday

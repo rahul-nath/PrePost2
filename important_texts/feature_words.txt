@@ -1,0 +1,201 @@
+http://www.google.com/search?num=5&q=freecell+is+pickuping+from+card+in+column+card+12+hearts+card+13+spades+col+1+&start=0
+http://www.google.com/search?num=5&q=freecell+are+pickuping+from+card+in+column+card+12+hearts+card+13+spades+col+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+pickuping+from+card+in+column+card+12+hearts+card+13+spades+col+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+pickuping+from+card+in+column+card+12+hearts+card+13+spades+col+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+is+puting+on+card+in+homecell+card+13+diamonds+card+12+diamonds+home+2+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+are+puting+on+card+in+homecell+card+13+diamonds+card+12+diamonds+home+2+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+puting+on+card+in+homecell+card+13+diamonds+card+12+diamonds+home+2+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+puting+on+card+in+homecell+card+13+diamonds+card+12+diamonds+home+2+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+is+puting+on+card+in+column+card+10+hearts+card+11+spades+col+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+are+puting+on+card+in+column+card+10+hearts+card+11+spades+col+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+puting+on+card+in+column+card+10+hearts+card+11+spades+col+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+puting+on+card+in+column+card+10+hearts+card+11+spades+col+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+is+puting+in+empty+homecell+card+1+spades+home+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+are+puting+in+empty+homecell+card+1+spades+home+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+puting+in+empty+homecell+card+1+spades+home+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+puting+in+empty+homecell+card+1+spades+home+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+is+puting+in+empty+column+card+7+hearts+col+6+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+are+puting+in+empty+column+card+7+hearts+col+6+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+puting+in+empty+column+card+7+hearts+col+6+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+puting+in+empty+column+card+7+hearts+col+6+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+is+pickuping+last+from+column+card+13+diamonds+col+0+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+are+pickuping+last+from+column+card+13+diamonds+col+0+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+pickuping+last+from+column+card+13+diamonds+col+0+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+pickuping+last+from+column+card+13+diamonds+col+0+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+is+pickuping+from+freecell+card+10+hearts+freecell+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+are+pickuping+from+freecell+card+10+hearts+freecell+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+pickuping+from+freecell+card+10+hearts+freecell+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+pickuping+from+freecell+card+10+hearts+freecell+3+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+is+puting+in+freecell+card+12+hearts+freecell+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+are+puting+in+freecell+card+12+hearts+freecell+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+was+puting+in+freecell+card+12+hearts+freecell+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+http://www.google.com/search?num=5&q=freecell+were+puting+in+freecell+card+12+hearts+freecell+1+&start=0
+first except
+HTTP Error 503: Service Unavailable
+2
+
+
+top 100 feature_candidate words:
+pickup_from_card_in_column
+code
+suite
+download
+access
+technical
+would
+two
+call
+type
+today
+ms
+learn
+could
+programming
+want
+answer
+hi
+map
+use
+data
+help
+write
+covered
+freecell
+related
+forgot
+try
+formula
+free
+keep
+array
+privacy
+top
+system
+b
+cards
+topics
+mobile
+copy
+version
+get
+see
+us
+email
+available
+terms
+community
+value
+site
+hardware
+cant
+start
+development
+well
+questions
+web
+blog
+possible
+game
+using
+password
+like
+works
+library
+professionals
+business
+database
+question
+points
+microsoft
+managed
+pointing
+dealcardsbyval
+pointcontrolmousepositionx
+dynamic
+nextfacevaluebyval
+four
+facevalue
+comments
+go
+follow
+saved
+issues
+row
+relationships
+fronts
+rights
+patent
+chinese
+forte
+tv
+cardlocation
+ts
+opportunities
+pricing
+nextoppositesuitebyval
+program
+cdtterm
+mepaint
+sorry
+
+

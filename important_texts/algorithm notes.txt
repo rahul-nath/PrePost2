@@ -1,0 +1,23 @@
+algorithm notes
+Use case: Autonomous agents learning from instruction manuals; saves cost of programming
+instructions; just have the robot "read" the manual, or rather, the action sequences,
+just like one would do when they follow instructions on how to build a cabinet from IKEA or something.
+
+Want to return a tuple of the learned static precondition with the original action's objects as parameters
+and the original object with its parameters. LOCM matches the action heading against examples sequences to 
+derive the static precondition (if it exists)
+
+One problem is knowing when a static precondition is necessary. This depends on
+- the rules of the game
+- the tendencies of the environment (so the percept sequence of the agent)
+
+Another problem: How do I get them back into the algorithm?
+- By having LOCM wait for the input from PrePost+
+
+- need an appendix for
+querys made
+candidate words their pmis and chi squared
+features vectors 
+
+freq 8
+chi squared 7, and get the first value of the tuple
